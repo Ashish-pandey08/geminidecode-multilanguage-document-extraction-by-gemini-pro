@@ -1,0 +1,1 @@
+# geminidecode-multilanguage-document-extraction-by-gemini-pro
